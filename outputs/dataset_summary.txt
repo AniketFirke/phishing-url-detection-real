@@ -1,0 +1,6 @@
+Rows used after cleaning: 235,795
+Legitimate (1): 134,850
+Phishing (0): 100,945
+Train rows: 188,636
+Test rows: 47,159
+Selected model by F1: Random Forest
